@@ -1,2 +1,2 @@
 # VIT-Project-2
-VIT Project 2 (Capstone Project).
+RL based approaches for path planning in UGV.
